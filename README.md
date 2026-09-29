@@ -26,7 +26,7 @@ CP5_SERS/
 │   └── Data_for_UCI_named.csv
 ├── parte_1_classificacao/
 │   └── classificacao_estabilidade.ipynb
-└── parte_2_regressao/
+├── parte_2_regressao/
 │   └── regressao_estabilidade.ipynb
 ├── README.md
 ````
