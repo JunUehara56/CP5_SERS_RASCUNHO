@@ -27,7 +27,7 @@ CP5_SERS/
 ├── parte_1_classificacao/
 │   └── classificacao_estabilidade.ipynb
 └── parte_2_regressao/
-    └── regressao_estabilidade.ipynb
+│   └── regressao_estabilidade.ipynb
 ├── README.md
 ````
 
